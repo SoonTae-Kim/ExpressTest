@@ -2,31 +2,31 @@
     {
         "id": 1,
         "name": "ST Kim",
-        "email": "niecworld@gmail.com"     
+        "email": "stk7011@gmail.com"     
     },
     {
         "id": 2,
-        "name": "Ahmad Habib Hussein",
-        "email": "Ahmadhabibhussein@mail.com"     
+        "name": "김순태",
+        "email": "stkim@naver.com"     
     },
     {
         "id": 3,
-        "name": "Abdullahi Aminu",
+        "name": "김효정",
         "email": "Aminuawesome@mail.com"     
     },
 	{
         "id": 4,
-        "name": "Kim Soon Tae",
+        "name": "HyoJung Kim",
         "email": "hello@mail.com"     
     },
 	{
         "id": 5,
-        "name": "κΉμν",
+        "name": "김효영",
         "email": "helloworld@mail.com"     
     },
     {
         "id": 6,
-        "name": "Idris Muhammad",
+        "name": "HyoYoung Kim",
         "email": "rismad@mail.com"     
     }
 
